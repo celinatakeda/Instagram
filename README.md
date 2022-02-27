@@ -4,6 +4,6 @@ Neste projeto foi utilizado HTML e CSS.
 
 No projeto foi criado duas colunas onde na primeira coluna fica a imagem do celular e na segunda coluna fica a interface do instagram.
 
-A div da interface do instagram foi dividido em três containers.
+Dentro da div interface do instagram foi criado três containers.
 
-Foi feita a responsividade para algumas telas com media queries.
+Para responsividade de algumas telas foi utilizada media queries.
