@@ -1,4 +1,4 @@
-# Recriando a página inicial do Instagram
+# Recriando página inicial do Instagram
 
 Neste projeto foi utilizado HTML e CSS.
 
