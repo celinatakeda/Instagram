@@ -7,3 +7,8 @@ No projeto foi criado duas colunas onde na primeira coluna fica a imagem do celu
 Dentro da div interface do instagram foi criado três containers.
 
 Para responsividade de algumas telas foi utilizada media queries.
+
+# Visual do projeto
+<p>
+    <img src=".github/instagram.png">
+</p>
